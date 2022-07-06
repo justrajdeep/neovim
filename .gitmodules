@@ -19,3 +19,9 @@
 [submodule "Neovim-from-scratch"]
 	path = Neovim-from-scratch
 	url = https://github.com/LunarVim/Neovim-from-scratch.git
+[submodule "LunarVim"]
+	path = LunarVim
+	url = https://github.com/LunarVim/LunarVim.git
+[submodule "config-files"]
+	path = config-files
+	url = https://github.com/NeuralNine/config-files
