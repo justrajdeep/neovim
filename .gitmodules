@@ -1,0 +1,21 @@
+[submodule "kickstart.nvim"]
+	path = kickstart.nvim
+	url = https://github.com/nvim-lua/kickstart.nvim.git
+[submodule "SpaceVim"]
+	path = SpaceVim
+	url = https://github.com/SpaceVim/SpaceVim.git
+[submodule "nvim-basic-ide"]
+	path = nvim-basic-ide
+	url = https://github.com/LunarVim/nvim-basic-ide.git
+[submodule "NvChad"]
+	path = NvChad
+	url = https://github.com/NvChad/NvChad.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/ray-x/nvim.git
+[submodule "AstroNvim"]
+	path = AstroNvim
+	url = https://github.com/AstroNvim/AstroNvim
+[submodule "Neovim-from-scratch"]
+	path = Neovim-from-scratch
+	url = https://github.com/LunarVim/Neovim-from-scratch.git
